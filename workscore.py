@@ -18,6 +18,6 @@ print(f'국어={kor}')
 print(f'영어={eng}')
 print(f'합계={hap}')
 print(f'평균={avg}')
-
+print('오늘은 2월 5일 목요일')
 
 
